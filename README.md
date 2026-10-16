@@ -1,18 +1,18 @@
 <!-- ===== Animated header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Tu%C4%9Fberk&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20%C2%B7%20UAV%20Decision%20Systems&descSize=20&descAlignY=58" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Tu%C4%9Fberk&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20%C2%B7%20Atat%C3%BCrk%20University&descSize=20&descAlignY=58" width="100%" alt="header" />
 </p>
 
 <!-- ===== Typing animation ===== -->
 <p align="center">
-  <a href="https://github.com/tugberkkndrc">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Computer+Engineering+Student+%40+Atat%C3%BCrk+University;Learning+Python%2C+ML+%26+Computer+Vision;Building+a+UAV+Decision+Support+System;Linux+user+%7C+Future+defense+tech+engineer" alt="Typing SVG" />
+  <a href="https://tugberk.me">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Computer+Engineering+Student+%40+Atat%C3%BCrk+University;Python+%2F+MATLAB+%2F+Linux;Building+something.+Details+when+it%27s+ready.;Status%3A+classified" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Atat%C3%BCrk%20University-Computer%20Engineering-1f6feb?style=for-the-badge" alt="Atatürk University" />
-  <img src="https://img.shields.io/badge/Focus-Defense%20Tech%20%26%20UAVs-2ea043?style=for-the-badge" alt="Focus" />
+  <img src="https://img.shields.io/badge/Project-Classified-B3166B?style=for-the-badge" alt="Project: classified" />
 </p>
 
 ---
@@ -20,23 +20,30 @@
 ### 🧭 About me
 
 - 🎓 1st-year **Computer Engineering** student (English-medium) at **Atatürk University**, Türkiye
-- 🛩️ Interested in **defense technologies** — especially autonomous systems and UAVs
 - 🌱 Currently learning **Python** (University of Michigan · *Python 3 Programming*) and **MATLAB**
 - 🐧 I develop on **Ubuntu** (dual-boot with Windows)
-- 🔐 Long-term side interest: **cybersecurity** & CTFs
-- 💬 Ask me about: Python, Linux, UAV decision-making, math
+- 🧩 Drawn to problems where software has to make a call under uncertainty
+- 🗂️ Working on something I'm not ready to share yet
 
 ---
 
-### 🔭 Current focus
+### 🗂️ Current project
 
-**UAV Decision Support System** — *planned TÜBİTAK 2209-A research project, early development*
+```text
+FILE NO.     TK-01                          [ RESTRICTED ]
+──────────────────────────────────────────────────────────
+CODENAME     ██████████
+FIELD        ███████ ████████████
+BUILT WITH   Python, ██████, ███████████
+STATUS       In development
+DISCLOSURE   When it's ready
+──────────────────────────────────────────────────────────
+SUMMARY      ████████████ ████ █████████ ███████████ ███
+             ███████ ████████████ ██████ ██████████
+             ███████████ ████████ ████
+```
 
-A probabilistic decision support system for tactical UAV operations, combining:
-
-- 👁️ **YOLOv8** — real-time object detection
-- ⚖️ **AHP (Analytic Hierarchy Process)** — multi-criteria decision making
-- 🎲 **Monte Carlo simulation** — modeling uncertainty and risk
+*Curious? [Ask me directly.](mailto:iletisim@tugberk.me)*
 
 ---
 
@@ -50,25 +57,25 @@ A probabilistic decision support system for tactical UAV operations, combining:
   </a>
 </p>
 
-**Learning next**
+**Learning next** — C++, and a few things that stay off the record for now.
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,opencv,pytorch,sklearn,qt,bash" alt="Learning next" />
+    <img src="https://skillicons.dev/icons?i=cpp,bash" alt="Learning next" />
   </a>
 </p>
 
 ---
 
-### 🗺️ Learning roadmap
+### 🗺️ Route
 
-- [ ] Python 3 Programming Specialization — University of Michigan *(in progress)*
-- [ ] NumPy & SciPy
-- [ ] Machine Learning Specialization — Andrew Ng
-- [ ] OpenCV → YOLOv8 object detection
-- [ ] AHP & Monte Carlo simulation in Python
-- [ ] PyQt5 desktop interface
-- [ ] C++ fundamentals
+- [x] English prep & B2 certificate
+- [x] Moved my development setup to Linux (Ubuntu)
+- [ ] Python 3 Programming — University of Michigan *(in progress)*
+- [ ] ████████████
+- [ ] ██████████████████
+- [ ] █████████
+- [ ] **Destination: classified**
 
 ---
 
@@ -97,12 +104,11 @@ A probabilistic decision support system for tactical UAV operations, combining:
 ### 📫 Get in touch
 
 <p align="left">
-  <!-- Replace YOUR-LINKEDIN and YOUR-EMAIL below -->
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://linkedin.com/in/tugberkkunduraci">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
   </a>
   &nbsp;
-  <a href="mailto:YOUR-EMAIL@example.com">
+  <a href="mailto:iletisim@tugberk.me">
     <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Email" />
   </a>
 </p>
