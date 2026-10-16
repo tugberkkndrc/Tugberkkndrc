@@ -1,6 +1,14 @@
-<h1 align="center">Hi, I'm Tuğberk 👋</h1>
+<!-- ===== Animated header ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f2027,50:203a43,100:2c5364&text=Tu%C4%9Fberk&fontColor=ffffff&fontSize=70&fontAlignY=35&animation=fadeIn&desc=Computer%20Engineering%20%C2%B7%20UAV%20Decision%20Systems&descSize=20&descAlignY=58" width="100%" alt="header" />
+</p>
 
-<h3 align="center">Computer Engineering student · Computer vision & decision systems for UAVs</h3>
+<!-- ===== Typing animation ===== -->
+<p align="center">
+  <a href="https://github.com/tugberkkndrc">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&height=45&lines=Computer+Engineering+Student+%40+Atat%C3%BCrk+University;Learning+Python%2C+ML+%26+Computer+Vision;Building+a+UAV+Decision+Support+System;Linux+user+%7C+Future+defense+tech+engineer" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Atat%C3%BCrk%20University-Computer%20Engineering-1f6feb?style=for-the-badge" alt="Atatürk University" />
@@ -73,6 +81,19 @@ A probabilistic decision support system for tactical UAV operations, combining:
 
 ---
 
+### 🐍 Contribution snake
+
+<!-- Generated daily by .github/workflows/snake.yml -->
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tugberkkndrc/tugberkkndrc/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tugberkkndrc/tugberkkndrc/output/github-snake.svg" />
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/tugberkkndrc/tugberkkndrc/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
 ### 📫 Get in touch
 
 <p align="left">
@@ -87,3 +108,8 @@ A probabilistic decision support system for tactical UAV operations, combining:
 </p>
 
 🌐 [tugberk.me](https://tugberk.me)
+
+<!-- ===== Animated footer ===== -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:0f2027,50:203a43,100:2c5364&section=footer" width="100%" alt="footer" />
+</p>
